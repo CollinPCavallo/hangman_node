@@ -1,0 +1,22 @@
+{
+  "name": "node-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CollinPCavallo/node-hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CollinPCavallo/node-hangman/issues"
+  },
+  "homepage": "https://github.com/CollinPCavallo/node-hangman#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  }
+}
